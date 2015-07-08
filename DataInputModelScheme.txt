@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenGL
+	GL:platform=""
+	GL:SceneWidth=""
+	GL:SceneHeight=""
+	GL:Title="" >
+	<EGLConfig />
+	<EGLContext />
+	
+	<AbstractShape
+		GL:primitive="" 					
+		GL:parseColor=""
+		GL:vec4Color = "">
+		<Vertex type="array">
+			<vec4>-0.5, 0.0, 0.0, 1.0</vec4>
+			<vec4> 0.5, 0.0, 0.0, 1.0</vec4>
+			<vec4> 0.0, 0.5, 0.0, 1.0</vec4>			
+		</Vertex>	
+	</AbstractShape>
+	
+	
+	<Round />
+	
+	
+	
+	
+</OpenGL>
